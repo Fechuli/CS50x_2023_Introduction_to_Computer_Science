@@ -1,6 +1,9 @@
 The lesson on SQL was one of the most interesting and fun, perhaps my favorite.
 I hope you enjoyed it as much as I did.
 
+>The movies database is not present. Solutions can be found in the .sql files
+
+
 # [Movies]()
 
 So, this exercise puts us in front of a database from IMDb. It contains several pieces of information.
