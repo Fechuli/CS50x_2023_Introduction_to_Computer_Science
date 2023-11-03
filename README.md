@@ -15,3 +15,5 @@ Clearly, the explanations relate only to the problem sets since the labs already
 -[Weekly 2 Argument Arrays](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_2_Arrays)
 
 -[Weekly 4 Argument Memory](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_4_Memory)
+
+-[Weekly 7 Argument SQL](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_7_SQL)
