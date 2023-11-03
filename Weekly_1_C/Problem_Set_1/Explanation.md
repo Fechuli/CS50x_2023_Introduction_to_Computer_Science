@@ -1,9 +1,9 @@
-# Hello
+# [Hello](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_1_C/Problem_Set_1/hello.c)
 
 The first exercise as in any new programming language is clearly Hello World. 
 Nothing complicated, we use the printf function to make a string appear in the console. 
 
-# Mario-More
+# [Mario-More](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_1_C/Problem_Set_1/mario.c)
 
 This is the second version of the exercise.
 I already had some background with C so I felt I could solve it right away.
@@ -26,7 +26,7 @@ After that the blocks that simply mirror the variable i.
 At this point we put in two blanks regardless.
 And finally the mirrored scale, we don't have to worry about the spaces anymore.
 
-# Credit
+# [Credit](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_1_C/Problem_Set_1/credit.c)
 
 Okay we are already starting to make things complicated.
 
