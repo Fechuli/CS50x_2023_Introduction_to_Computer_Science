@@ -12,4 +12,4 @@ Clearly, the explanations relate only to the problem sets since the labs already
 
 -[Weekly 1 Argument C](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_1_C)
 
--[Weekly 2 Argumt Arrays](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_2_Arrays)
+-[Weekly 2 Argument Arrays](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_2_Arrays)
