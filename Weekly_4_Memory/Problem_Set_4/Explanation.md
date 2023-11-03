@@ -1,4 +1,4 @@
-# [Filter]()
+# [Filter](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_4_Memory/Problem_Set_4/helpers.c)
 
 Filter is a very interesting exercise that focuses on editing one or more images. 
 During the course we realized that each image is made of pixels and each pixel has a color.
@@ -14,7 +14,7 @@ It is, however, interesting to look at the prototypes of the functions we are go
 It is from these that we can understand how the mechanism works. 
 The functions take as parameters the height, the width and the RGBTRIPLE data structure, which simply represents each individual pixel of the image in question. 
 
-# [Recover]()
+# [Recover](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_4_Memory/Problem_Set_4/recover.c)
 
 The recover exercise, as per its name, has the task of recovering a deleted image.
 As a first step, the program checks the number of arguments passed to it. 
