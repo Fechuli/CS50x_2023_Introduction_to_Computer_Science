@@ -4,7 +4,7 @@ I hope you enjoyed it as much as I did.
 >The movies database is not present. Solutions can be found in the .sql files
 
 
-# [Movies]()
+# [Movies](https://github.com/VerisimilitudeX/CS50/tree/main/Week%207/Problem%20Set%207/Movies)
 
 So, this exercise puts us in front of a database from IMDb. It contains several pieces of information.
 We should not write real code, but we should ask the database questions and expect answers.
@@ -12,7 +12,7 @@ We should not write real code, but we should ask the database questions and expe
 The output will be 13 sql files in which the statements for each of the queries in the 'exercise will be given.
 I won't go into detail, they are all pretty simple but useful for a thorough understanding of how SQL works.
 
-# [FiftyVille]()
+# [FiftyVille](https://github.com/VerisimilitudeX/CS50/tree/main/Week%207/Problem%20Set%207/fiftyville)
 
 In FiftyVille we play detective. 
 A very challenging exercise that, in my opinion, doesn't stray far from reality and the methodology by which some cases are solved.
