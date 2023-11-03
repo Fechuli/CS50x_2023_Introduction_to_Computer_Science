@@ -12,4 +12,7 @@ I personally prefer [Tailwind](https://tailwindcss.com/), but I think it is a ma
 The project contains a small css file that contains a few lines of code. I used the * selector to change the font family of all my writing in Montserrat.
 I retrieved the font at [Google Font](https://fonts.google.com/) and imported it into the first line of the .css file.
 
+There is some script in javascript. Simple stuff. 
+I thought about the background of the page changing and a nice alert when my face is clicked.
+
 The page is about me so there is pretty much the basic information that is in most portfolios.
