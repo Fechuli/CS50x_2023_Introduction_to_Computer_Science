@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS num_10_ratings FROM ratings WHERE rating = 10.0;
