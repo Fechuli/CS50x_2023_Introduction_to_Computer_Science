@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            
+            function toggleButtonText(button) {
+
+                var responsebtn = document.getElementById("responsebtn")
+
+                if (button.classList.contains("o")) {
+                    responsebtn.innerText = "Correct";
+                    button.classList.add("correct");
+                } else if (button.classList.contains("x")) {
+                    responsebtn.innerText = "Incorrect";
+                    button.classList.add("incorrect");
+                }
+                button.disabled = true;
+            }
+
+            function checkAnswer() {
+
+                var answerInput = document.getElementById("answer");
+                var userAnswer = answerInput.value.trim().toLowerCase();
+                var buttonAnswer = document.getElementById("btnA")
+                var response = document.getElementById("response")
+
+                if (userAnswer === "dennis ritchie") {
+                    response.innerText = "Correct";
+                    answerInput.classList.remove("incorrect");
+                    answerInput.classList.add("correct");
+                    answerInput.disabled = true;
+                    buttonAnswer.remove()
+
+                } else {
+                    response.innerText = "Incorrect";
+                    answerInput.classList.add("incorrect");
+                }
+            }
+
+            function onEnterKey(event) {
+                if (event.keyCode === 13) {
+                    checkAnswer();
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>Which of these is the oldest programming language?</h3>
+                <div>
+                    <button class="x" onclick="toggleButtonText(this)">C</button>
+                    <button class="x" onclick="toggleButtonText(this)">Java</button>
+                    <button class="x" onclick="toggleButtonText(this)">C--</button>
+                    <button class="o" onclick="toggleButtonText(this)">FORTRAN</button>
+                    <button class="x" onclick="toggleButtonText(this)">B</button>
+                </div>
+                <div id="responsebtn"></div>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>What is the name of the creator of C?</h3>
+                <input type="text" id="answer" placeholder="Your answer here :)" onkeydown="onEnterKey(event)">
+                <button id="btnA" onclick="checkAnswer()">Check Answer</button>
+                <div id="response"></div>
+            </div>
+        </div>
+    </body>
+</html>
