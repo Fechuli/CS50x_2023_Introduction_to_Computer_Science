@@ -10,7 +10,7 @@ Clearly, the explanations relate only to the problem sets since the labs already
 
 # CS50x 2023
 
--[Weekly 0 Argument scatch](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_0_Scratch)
+-[Weekly 0 Argument Scratch](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_0_Scratch)
 
 -[Weekly 1 Argument C](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_1_C)
 
