@@ -1,6 +1,3 @@
-
-In the third week, I could not enter the Lab. Sorry.
-
 # [Plurality](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_3_Algorithms/Problem_Set_3/plurality.c)
 
 Plurality is an interesting exercise that allows us to determine a multi-person election winner.
