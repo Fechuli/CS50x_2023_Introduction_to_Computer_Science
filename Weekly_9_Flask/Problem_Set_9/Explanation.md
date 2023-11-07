@@ -1,4 +1,4 @@
-# [Finance]()
+# [Finance](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_9_Flask/Problem_Set_9/finance/app.py)
 
 This is the last exercise and the one that gave me the most pain along with speller.
 
