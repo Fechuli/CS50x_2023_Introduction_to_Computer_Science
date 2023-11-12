@@ -1,26 +1,26 @@
-# Hello
+# [Hello](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_6_Python/Problem_Set_6/hello.py)
 
 Exactly the same exercise as in C but in Python.
 
-# Mario (More)
+# [Mario (More)](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_6_Python/Problem_Set_6/mario.py)
 
 Exactly the same exercise as in C but in Python.
 The logic is the same 1:1.
 It changes the way it is written.
 
-# Credit
+# [Credit](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_6_Python/Problem_Set_6/credit.py)
 
 Exactly the same exercise as in C but in Python.
 The logic is the same 1:1, like this paragraph and the one above.
 It changes the way it is written.
 
-# Readibility
+# [Readibility](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_6_Python/Problem_Set_6/readability.py)
 
 Exactly the same exercise as in C but in Python.
 The logic is the same 1:1, like this paragraph and the one above.
 It changes the way it is written.
 
-# DNA
+# [DNA](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/blob/main/Weekly_6_Python/Problem_Set_6/dna/dna.py)
 
 Okay, the last exercise is the first original exercise of the lesson. Crazy stuff.
 Dna is a pretty complex exercise (it was a mess), I'll explain.
