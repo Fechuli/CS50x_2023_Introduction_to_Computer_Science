@@ -22,9 +22,11 @@ Clearly, the explanations relate only to the problem sets since the labs already
 
 -[Weekly 5 Argument DataStructures](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_5_DataStructures)
 
+-[Weekly 6 Argument Python](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_6_Python)
+
 -[Weekly 7 Argument SQL](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_7_SQL)
 
 -[Weekly 8 Argument HTML_CSS_JavaScript](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_8_HTML_CSS_JavaScript)
 
--[Weekly 9 Argument Flask](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_7_SQL)
+-[Weekly 9 Argument Flask](https://github.com/Fechuli/CS50x_2023_Introduction_to_Computer_Science/tree/main/Weekly_9_Flask)
 
